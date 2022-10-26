@@ -12,6 +12,7 @@ const Home = () => {
             <span>Click <NavLink style={{ color: "blue" }} to="/tasks">here</NavLink> to get started</span>
           </div>
         </div>
+        <div className="footer" />
       </div>
     </div>
   )

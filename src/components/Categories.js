@@ -60,6 +60,7 @@ const Categories = () => {
                         categoryInfo={item}
                     />
                 )}
+                <div className="footer" />
             </div>
         </div>
     )
